@@ -217,6 +217,7 @@
   border-width: 0px;
   margin-top: 10px;
   padding-left: 13px;
+  cursor: pointer;
 }
 
 #barre-grise {
@@ -237,3 +238,4 @@
   margin-top: 30px;
   cursor: pointer;
 }
+
